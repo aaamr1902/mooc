@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mooc-2013-OOProgrammingWithJava-PART2.iml" filepath="$PROJECT_DIR$/.idea/mooc-2013-OOProgrammingWithJava-PART2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7-week7_01.Smileys/week7-week7_01.Smileys.iml" filepath="$PROJECT_DIR$/week7-week7_01.Smileys/week7-week7_01.Smileys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7-week7_02.CharacterStringChanger/week7-week7_02.CharacterStringChanger.iml" filepath="$PROJECT_DIR$/week7-week7_02.CharacterStringChanger/week7-week7_02.CharacterStringChanger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7-week7_03.Calculator/week7-week7_03.Calculator.iml" filepath="$PROJECT_DIR$/week7-week7_03.Calculator/week7-week7_03.Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7-week7_04.ThingSuitcaseAndContainer/week7-week7_04.ThingSuitcaseAndContainer.iml" filepath="$PROJECT_DIR$/week7-week7_04.ThingSuitcaseAndContainer/week7-week7_04.ThingSuitcaseAndContainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7-week7_05.Nicknames/week7-week7_05.Nicknames.iml" filepath="$PROJECT_DIR$/week7-week7_05.Nicknames/week7-week7_05.Nicknames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7-week7_06.PromissoryNote/week7-week7_06.PromissoryNote.iml" filepath="$PROJECT_DIR$/week7-week7_06.PromissoryNote/week7-week7_06.PromissoryNote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7-week7_07.Dictionary/week7-week7_07.Dictionary.iml" filepath="$PROJECT_DIR$/week7-week7_07.Dictionary/week7-week7_07.Dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7-week7_08.Airport/week7-week7_08.Airport.iml" filepath="$PROJECT_DIR$/week7-week7_08.Airport/week7-week7_08.Airport.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Part02_33.StarSign" />
+        <module name="Part01_10.Story" />
+        <module name="Part02_29.Summation" />
+        <module name="Part04_22.Cubes" />
+        <module name="Part02_30.Smallest" />
+        <module name="Part05_15.Archive" />
+        <module name="Part06_11.Averages" />
+        <module name="Part06_01.Menu" />
+        <module name="Part02_14.Counting" />
+        <module name="Part04_11.Film" />
+        <module name="Part06_02.Stack" />
+        <module name="Part04_09.Debt" />
+        <module name="Part03_24.IsItTrue" />
+        <module name="Part02_01.Squared" />
+        <module name="Part01_04.Dinosaur" />
+        <module name="Part04_07.Product" />
+        <module name="Part05_01.OneMinute" />
+        <module name="Part03_14.OnTheList" />
+        <module name="Part04_05.Whistle" />
+        <module name="Part02_25.Division" />
+        <module name="Part02_05.CarryOn" />
+        <module name="Part02_19.Factorial" />
+        <module name="Part05_14.Books" />
+        <module name="Part02_27.NumberUno" />
+        <module name="Part02_31.Greatest" />
+        <module name="Part04_06.Door" />
+        <module name="Part04_10.Song" />
+        <module name="Part01_26.Orwell" />
+        <module name="Part03_10.IndexOf" />
+        <module name="Part04_17.Items" />
+        <module name="Part05_17.Money" />
+        <module name="Part03_04.ListSize" />
+        <module name="Part01_01.Sandbox" />
+        <module name="Part01_32.OddOrEven" />
+        <module name="Part04_04.Room" />
+        <module name="Part05_12.Song" />
+        <module name="Part01_05.Message" />
+        <module name="Part06_10.TodoList" />
+        <module name="Part03_16.Sum" />
+        <module name="Part03_25.Login" />
+        <module name="Part03_18.Swap" />
+        <module name="Part05_04.Fitbyte" />
+        <module name="Part01_33.Password" />
+        <module name="Part01_08.Greeting" />
+        <module name="Part05_02.Book" />
+        <module name="Part01_37.GiftTax" />
+        <module name="Part04_20.Books" />
+        <module name="Part04_13.Agent" />
+        <module name="Part01_34.Same" />
+        <module name="Part02_22.Reprint" />
+        <module name="Part07_08.BigYear" />
+        <module name="Part01_36.LeapYear" />
+        <module name="Part07_03.Sorting" />
+        <module name="Part01_29.Adulthood" />
+        <module name="Part03_29.LastWords" />
+        <module name="Part05_03.Cube" />
+        <module name="Part02_28.Word" />
+        <module name="Part03_27.AVClub" />
+        <module name="Part01_27.Ancient" />
+        <module name="Part02_32.Averaging" />
+        <module name="Part04_12.Gauge" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
